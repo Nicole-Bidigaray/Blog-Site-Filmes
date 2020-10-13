@@ -6,7 +6,7 @@
 
 - npm install -g create-react-app
 - npm install -g npm
-- npm install -g create-react-app
+- npm install -g create-react-app web
 - npm install react-router-dom
 - npm start
 
