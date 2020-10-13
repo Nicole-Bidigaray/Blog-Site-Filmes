@@ -8,6 +8,7 @@
 - npm install -g npm
 - npm install -g create-react-app
 - npm install react-router-dom
+- npm start
 
 # Configuração settings.json do seu VS Code
 
